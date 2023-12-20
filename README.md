@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to `algorithmic_challenges_np`, a comprehensive repository dedicated to exploring and solving Non-deterministic Polynomial time (NP) problems. This repository aims to provide detailed solutions, approaches, and discussions on various NP problems, serving as a resource for students, educators, and researchers in the field of computational complexity theory.
+Welcome to `algorithmic-challenges-np`, a comprehensive repository dedicated to exploring and solving Non-deterministic Polynomial time (NP) problems. This repository aims to provide detailed solutions, approaches, and discussions on various NP problems, serving as a resource for students, educators, and researchers in the field of computational complexity theory.
 
 ## List of Problems
 
