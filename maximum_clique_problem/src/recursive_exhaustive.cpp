@@ -7,7 +7,7 @@
 // Author: Renato Laffranchi Falcão
 // 12/2023
 
-// This is a recursive implementation of the exaustive search algorithm for the maximum clique problem with backtracking optimization.
+// This is a recursive implementation of the exhaustive search algorithm for the maximum clique problem with backtracking optimization.
 // The algorithm is based on the following paper:
 // "A review on algorithms for maximum clique problems" by Qinghua Wu and Jin-Kao Hao. European Journal of Operational Research. Volume 242, Issue 3, 1 May 2015, Pages 693-709.
 // http://dx.doi.org/10.1016/j.ejor.2014.09.064
